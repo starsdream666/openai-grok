@@ -1,4 +1,4 @@
-name = "openai-grok"
+name = "openai--grok"  
 main = "worker.js"
 compatibility_date = "2025-02-24"
 compatibility_flags = [ "nodejs_compat" ]
